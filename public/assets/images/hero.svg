@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" role="img" aria-label="Washing machine">
+  <rect x="80" y="40" width="240" height="290" rx="22" fill="#ffffff"/>
+  <rect x="80" y="40" width="240" height="60" rx="22" fill="#d6eef6"/>
+  <circle cx="120" cy="70" r="9" fill="#0e7c9b"/><circle cx="150" cy="70" r="9" fill="#f59e0b"/>
+  <rect x="215" y="62" width="80" height="16" rx="8" fill="#ffffff"/>
+  <circle cx="200" cy="205" r="82" fill="#0a4d63"/>
+  <circle cx="200" cy="205" r="68" fill="#7cc7de"/>
+  <path d="M148 205c14-18 26 18 40 0s26 18 40 0 14 6 24-4" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="60" cy="90" r="16" fill="#ffffff" opacity=".7"/><circle cx="40" cy="150" r="10" fill="#ffffff" opacity=".6"/>
+  <circle cx="345" cy="110" r="14" fill="#ffffff" opacity=".7"/><circle cx="365" cy="190" r="9" fill="#ffffff" opacity=".6"/>
+  <circle cx="330" cy="260" r="12" fill="#ffffff" opacity=".5"/>
+</svg>
